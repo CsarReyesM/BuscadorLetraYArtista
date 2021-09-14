@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+# LINK PARA ACCEDER AL DPLOY
+URL = buscador-cancion-artistas-react.netlify.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
